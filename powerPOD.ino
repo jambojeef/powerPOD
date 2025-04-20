@@ -12,7 +12,7 @@ const char* password = "b8cyFsdNkkst";
 
 // ——— OTA Settings ———
 // Replace with your GitHub Releases raw URL to powerPOD.bin
-const char* firmwareURL = "https://github.com/your-username/powerPOD/releases/download/v1.0.0/powerPOD.bin";
+const char* firmwareURL = "https://github.com/jambojeef/powerPOD/commit/cbf4b92872b77e644c985fd420a76e381cab8797#diff-0f93f244bf850355adb654094989c76806c61af6bcc38c2082161e0ff3aec65f";
 
 // Root CA PEM for github.com (Let’s Encrypt ISRG Root X1)
 const char* rootCACert = R"EOF(
